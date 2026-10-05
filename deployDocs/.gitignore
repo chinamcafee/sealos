@@ -1,0 +1,8 @@
+# 构建产物工作目录（所有编译产物落在这里，不入库）
+build/
+# Docusaurus 生成的站点静态文件
+docusaurusSite/build/
+# 站点依赖
+docusaurusSite/node_modules/
+# Docusaurus 运行缓存
+docusaurusSite/.docusaurus/
